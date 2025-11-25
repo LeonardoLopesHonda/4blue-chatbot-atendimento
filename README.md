@@ -46,8 +46,8 @@ Open a new terminal
 4. Run migrations:
 
    ```bash
-   python manage.py migrate
-   python manage.py migrate chatbot
+   python3 manage.py migrate
+   python3 manage.py migrate chatbot
    ```
 
    > Creates the database tables for:
@@ -58,14 +58,14 @@ Open a new terminal
 5. Seed database:
 
    ```bash
-   python manage.py create_mock_users
+   python3 manage.py create_mock_users
    ```
 
    > Seeds the database with the test users
 
 6. Start server:
    ```bash
-   python manage.py runserver
+   python3 manage.py runserver
    ```
    > Setup server
    > Access some server here: `http://localhost:5173`
