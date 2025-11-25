@@ -81,6 +81,8 @@
    pnpm run dev
    ```
    > Access the website here: `http://localhost:5173`
+   >> You can login in `Usuario A` using `a123` 
+   >> Or in `Usuario B` using `b123`
 
 ## Technical Decisions
 
@@ -212,6 +214,8 @@ This project demonstrates the implementation of a full-stack web application wit
    pnpm run dev
    ```
    > Acesse o website em: `http://localhost:5173`
+   >> Você pode logar no `Usuario A` usando `a123` 
+   >> Ou no `Usuario B` usando `b123`
 
 ## Decisões Técnicas
 
