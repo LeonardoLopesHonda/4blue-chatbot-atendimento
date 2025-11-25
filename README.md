@@ -18,6 +18,8 @@
 
 ### Backend Setup
 
+Open a new terminal
+
 1. Create virtual environment:
 
    ```bash
@@ -69,6 +71,8 @@
    > Access some server here: `http://localhost:5173`
 
 ### Frontend Setup
+
+Open a new terminal
 
 1. Navigate to frontend:
 
